@@ -28,4 +28,18 @@ https://github.com/Abhishek6172/WeatherNow-A-Simple-Weather-Forecast-Web-App.git
 > 🔐 **Note:** Replace the default API key in `proj1.js` with your own from [OpenWeatherMap](https://openweathermap.org/api) if needed.
 
 ## 📁 Folder Structure
+WeatherNow/
+├── index.html
+├── proj1.css
+├── proj1.js
+├── /images
+│   ├── search.png
+│   ├── clear.png
+│   ├── clouds.png
+│   ├── drizzle.png
+│   ├── rain.png
+│   ├── mist.png
+│   ├── snow.png
+│   ├── humidity.png
+│   └── wind.png
 
